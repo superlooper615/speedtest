@@ -1,0 +1,14 @@
+- key: speedtest
+  title: speedtest
+  description:
+  fields:
+    - name: download
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
+    - name: upload
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
